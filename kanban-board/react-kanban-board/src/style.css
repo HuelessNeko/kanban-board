@@ -1,0 +1,10 @@
+.header{
+    h1{color: red;}
+    outline: 2px solid black;
+    padding: 5px;
+}
+
+.buttons{
+    outline: 1px solid black;
+    padding: 2px;
+}
